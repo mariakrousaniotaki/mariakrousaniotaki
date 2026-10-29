@@ -1,5 +1,5 @@
 - 👋 Hi! I’m @mariakrousaniotaki
-- 👀 I’m working in project management
+- 👀 I’m working in IT project management
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on AI & Machine Learning topics
 - 📫 How to reach me: www.linkedin.com/in/maria-krousaniotaki-78948625
