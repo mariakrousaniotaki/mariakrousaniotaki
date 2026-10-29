@@ -1,4 +1,4 @@
-- 👋 Hi! I’m @mariakrousaniotaki
+- 👋 Hi! I’m maria
 - 👀 I’m working in IT project management
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on AI & Machine Learning topics
